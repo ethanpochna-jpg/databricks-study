@@ -1,0 +1,27 @@
+Data Ingestion with Lakeflow Connect
+This course provides a comprehensive introduction to Lakeflow Connect as a scalable and simplified solution for ingesting data into Databricks from a variety of data sources. You will begin by exploring the different types of connectors within Lakeflow Connect (Standard and Managed), learn about various ingestion techniques, including batch, incremental batch, and streaming, and then review the key benefits of Delta tables and the Medallion architecture.
+
+
+
+From there, you will gain practical skills to efficiently ingest data from cloud object storage using Lakeflow Connect Standard Connectors with methods such as CREATE TABLE AS (CTAS), COPY INTO, and Auto Loader, along with the benefits and considerations of each approach. You will then learn how to append metadata columns to your bronze level tables during ingestion into the Databricks data intelligence platform. This is followed by working with the rescued data column, which handles records that don’t match the schema of your bronze table, including strategies for managing this rescued data.
+
+
+
+The course also introduces techniques for ingesting and flattening semi-structured JSON data, as well as enterprise-grade data ingestion using Lakeflow Connect Managed Connectors.
+
+
+
+Finally, learners will explore alternative ingestion strategies, including MERGE INTO operations and leveraging the Databricks Marketplace, equipping you with foundational knowledge to support modern data engineering ingestion.
+
+
+
+Note: Databricks Academy is transitioning from video lectures to a more streamlined PDF format with slides and notes for all self-paced courses. Please note that demo videos will still be available in their original format. We would love to hear your thoughts on this change, so please share your feedback through the course survey at the end. Thank you for being a part of our learning community!
+
+Prerequisites
+⇾ Basic understanding of the Databricks Data Intelligence platform, including Databricks Workspaces, Apache Spark, Delta Lake, the Medallion Architecture and Unity Catalog.
+
+⇾ Experience working with various file formats (e.g., Parquet, CSV, JSON, TXT).
+
+⇾ Proficiency in SQL and Python.
+
+⇾ Familiarity with running code in Databricks notebooks.

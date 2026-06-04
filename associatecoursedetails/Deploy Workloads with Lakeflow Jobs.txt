@@ -1,0 +1,20 @@
+Deploy Workloads with Lakeflow Jobs
+Deploy Workloads with Lakeflow Jobs course teaches how to orchestrate and automate data, analytics, and AI workflows using Lakeflow Jobs as a unified orchestration platform within the Databricks ecosystem. 
+
+⇾ You will learn to design and implement data workloads using Directed Acyclic Graphs (DAGs), configure various scheduling options, and implement advanced workflow features such as conditional task execution, run-if dependencies, and for each loops. 
+
+⇾ The course covers best practices for creating robust, production-ready pipelines with proper compute selection, modular orchestration, error handling techniques, and fault-tolerant design-all natively integrated within the Databricks Data Intelligence Platform.
+
+
+
+Note: Databricks Academy is transitioning from video lectures to a more streamlined PDF format with slides and notes for all self-paced courses. Please note that demo videos will still be available in their original format. We would love to hear your thoughts on this change, so please share your feedback through the course survey at the end. Thank you for being a part of our learning community!
+
+
+Prerequisites
+⇾ Completion of the course "Get Started with Databricks for Data Engineering", or a solid understanding of the Databricks Data Intelligence Platform
+
+⇾ Basic Understanding of topics like navigating a Databricks Workspace, Apache Spark, Delta Lake, Medallion Architecture, and Unity Catalog.
+
+⇾ Familiarity with python/pyspark
+
+⇾ Experience in writing intermediate-level SQL queries.

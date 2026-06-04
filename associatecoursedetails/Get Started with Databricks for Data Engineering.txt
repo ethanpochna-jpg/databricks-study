@@ -1,0 +1,5 @@
+Get Started with Databricks for Data Engineering
+In this course, you will learn basic skills that will allow you to use the Databricks Data Intelligence Platform to perform a simple data engineering workflow and support data warehousing endeavors. You will be given a tour of the workspace and be shown how to work with objects in Databricks such as catalogs, schemas, volumes, tables, compute clusters, and notebooks. You will then follow a basic data engineering workflow to perform tasks such as creating and working with tables, ingesting data into Delta Lake, transforming data through the medallion architecture, and using Databricks Workflows to orchestrate data engineering tasks. You’ll also learn how Databricks supports data warehousing needs through the use of Databricks SQL, Lakeflow Spark Declarative Pipelines, and Unity Catalog.
+
+Prerequisites
+A basic understanding of data engineering principles and topics such as data collection, extraction, ingestion, and transformation.

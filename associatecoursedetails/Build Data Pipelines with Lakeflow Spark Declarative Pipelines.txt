@@ -1,0 +1,31 @@
+Build Data Pipelines with Lakeflow Spark Declarative Pipelines
+This course introduces users to the essential concepts and skills needed to build data pipelines using Lakeflow Spark Declarative Pipelines (SDP) in Databricks for incremental batch or streaming ingestion and processing through multiple streaming tables and materialized views. Designed for data engineers new to Spark Declarative Pipelines, the course provides a comprehensive overview of core components such as incremental data processing, streaming tables, materialized views, and temporary views, highlighting their specific purposes and differences.
+
+
+
+Topics covered include:
+
+- Developing and debugging ETL pipelines with the multi-file editor in Spark Declarative Pipelines using SQL (with Python code examples provided)
+
+- How Spark Declarative Pipelines track data dependencies in a pipeline through the pipeline graph
+
+- Configuring pipeline compute resources, data assets, trigger modes, and other advanced options
+
+
+
+Next, the course introduces data quality expectations in Spark Declarative Pipelines, guiding users through the process of integrating expectations into pipelines to validate and enforce data integrity. Learners will then explore how to put a pipeline into production, including scheduling options, and enabling pipeline event logging to monitor pipeline performance and health.
+
+
+
+Finally, the course covers how to implement Change Data Capture (CDC) using the AUTO CDC INTO syntax within Spark Declarative Pipelines to manage slowly changing dimensions (SCD Type 1 and Type 2), preparing users to integrate CDC into their own pipelines.
+
+
+
+Note: Databricks Academy is transitioning from video lectures to a more streamlined PDF format with slides and notes for all self-paced courses. Please note that demo videos will still be available in their original format. We would love to hear your thoughts on this change, so please share your feedback through the course survey at the end. Thank you for being a part of our learning community!
+
+Prerequisites
+⇾ Basic understanding of the Databricks Data Intelligence platform, including Databricks Workspaces, Apache Spark, Delta Lake, the Medallion Architecture and Unity Catalog.
+
+⇾ Experience ingesting raw data into Delta tables, including using the read_files SQL function to load formats like CSV, JSON, TXT, and Parquet.
+
+⇾ Proficiency in transforming data using SQL, including writing intermediate-level queries and a basic understanding of SQL joins.

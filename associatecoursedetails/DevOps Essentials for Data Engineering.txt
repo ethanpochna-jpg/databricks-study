@@ -1,0 +1,30 @@
+DevOps Essentials for Data Engineering
+This course explores software engineering best practices and DevOps principles, specifically designed for data engineers working with Databricks. Participants will build a strong foundation in key topics such as code quality, version control, documentation, and testing. The course emphasizes DevOps, covering core components, benefits, and the role of continuous integration and delivery (CI/CD) in optimizing data engineering workflows.
+
+
+
+You will learn how to apply modularity principles in PySpark to create reusable components and structure code efficiently. Hands-on experience includes designing and implementing unit tests for PySpark functions using the pytest framework, followed by integration testing for Databricks data pipelines with Spark Declarative Pipeline and Jobs to ensure reliability.
+
+
+
+The course also covers essential Git operations within Databricks, including using Databricks Git Folders to integrate continuous integration practices. Finally, you will take a high level look at various deployment methods for Databricks assets, such as REST API, CLI, SDK, and Declarative Automation Bundles (DABs), providing you with the knowledge of techniques to deploy and manage your pipelines.
+
+
+
+By the end of the course, you will be proficient in software engineering and DevOps best practices, enabling you to build scalable, maintainable, and efficient data engineering solutions.
+
+
+
+Note: This is the fourth course in the 'Data Engineering with Databricks' series.
+
+
+
+Note: Databricks Academy is transitioning from video lectures to a more streamlined PDF format with slides and notes for all self-paced courses. Please note that demo videos will still be available in their original format. We would love to hear your thoughts on this change, so please share your feedback through the course survey at the end. Thank you for being a part of our learning community!
+
+
+Prerequisites
+• Proficient knowledge of the Databricks platform, including experience with Databricks Workspaces, Apache Spark, Delta Lake and the Medallion Architecture, Unity Catalog, Delta Live Tables, and Workflows. A basic understanding of Git version control is also required.
+
+• Experience ingesting and transforming data, with proficiency in PySpark for data processing and DataFrame manipulations. Additionally, candidates should have experience writing intermediate level SQL queries for data analysis and transformation.
+
+• Knowledge of Python programming, with proficiency in writing intermediate level Python code, including the ability to design and implement functions and classes. Users should also be skilled in creating, importing, and effectively utilizing Python packages.
